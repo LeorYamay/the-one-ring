@@ -1,3 +1,6 @@
+# Personal access token (never commit)
+.github_token
+
 # KiCad auto-save and backups
 .history/
 ~*.lck
