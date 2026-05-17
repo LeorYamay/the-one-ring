@@ -1,0 +1,18 @@
+# KiCad auto-save and backups
+.history/
+~*.lck
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.000
+*~
+
+# KiCad project local settings (machine-specific)
+*.kicad_prl
+
+# fab outputs (regenerate from source)
+gerbers/
+*.gbr
+*.drl
+*.zip
