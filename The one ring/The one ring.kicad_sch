@@ -1825,6 +1825,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Connect +BATT to XIAO onboard JST connector (not on DIP header)"
+		(at 20 65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+			(justify left)
+		)
+		(uuid "00000200-0000-4000-8000-000000000200")
+	)
 	(no_connect
 		(at 97.46 124.13)
 		(uuid "0000004b-0000-4000-8000-00000000004b")
